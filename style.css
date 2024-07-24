@@ -23,6 +23,7 @@ body{
     flex-grow: 1;
     justify-content: flex-end;
     gap: 2rem;
+    flex-shrink: 0;
 }
 .nav-name{
     color: #ffffff;
